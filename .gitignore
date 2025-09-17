@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+/.vs/desktop.ini
+/.vs/PyTester/copilot-chat/e9f67b88/sessions/98d4db2d-02d6-458c-a6ab-02ec041e2f11
+/.vs/PyTester/CopilotIndices/17.14.1204.46620/CodeChunks.db-wal
+/.vs/PyTester/CopilotIndices/17.14.1204.46620/SemanticSymbols.db-wal
+/.vs/PyTester/FileContentIndex/b131c331-6e52-4398-9fa0-663ec70eea7f.vsidx
+/.vs/PyTester/v17/.suo
+/.vs/PyTester/v17/DocumentLayout.backup.json
+/.vs/PyTester/v17/DocumentLayout.json
+/.vs/PyTester/FileContentIndex/6f30c5c8-5863-481e-8c11-8142d9b75e1b.vsidx
