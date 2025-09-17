@@ -1,3 +1,3 @@
-# PySimpleCalc - Python 3.0
-# Simple to use CLI sample calculator with user input prompting.
+# PySimpleCalc - Python 3.0, tkinter
+# Simple GUI calculator
 # Public Domain
